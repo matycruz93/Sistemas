@@ -9,4 +9,4 @@ Problemas:*Dificultades a la hora de crear hilos y utilizarlos
           *problemas para levantar o leer el archivo de la receta.
           *determinar equipo ganador.
           
-Soluciones: * videos proporcionados por los docentes de la materia y busqueda en interte sobre las dificultades planteadas anteriormente.
+Soluciones: * videos proporcionados por los docentes de la materia y busqueda en internet sobre las dificultades planteadas anteriormente.

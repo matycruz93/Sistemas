@@ -5,8 +5,9 @@ INFORME :
 
 Problemas:*Dificultades a la hora de crear hilos y utilizarlos
           *la incorporacion de los semaforos en las funciones de los pasos a realizar de la receta.
-          *los mutex.
+          *Uso de los semaforos mutex.
           *problemas para levantar o leer el archivo de la receta.
           *determinar equipo ganador.
+          *crear y devolver la salida 
           
 Soluciones: * videos proporcionados por los docentes de la materia y busqueda en internet sobre las dificultades planteadas anteriormente.

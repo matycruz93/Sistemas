@@ -11,3 +11,9 @@ Problemas:*Dificultades a la hora de crear hilos y utilizarlos
           *crear y devolver la salida 
           
 Soluciones: * videos proporcionados por los docentes de la materia y busqueda en internet sobre las dificultades planteadas anteriormente.
+
+
+Nota :Tuve problemas en mi maquina virtual para poder ejecutar el programa y al no encontrar solucion decidi probar el archivo en otra terminal de otra computadora
+      para determinar si el archivo funcionaba correctamente.
+      acontinucacion dejo capturas del problema de compilacion en mi maquina virtual y las capturas de la ejecucion en la otra computadora.
+      

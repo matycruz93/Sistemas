@@ -17,3 +17,8 @@ Nota :Tuve problemas en mi maquina virtual para poder ejecutar el programa y al 
       para determinar si el archivo funcionaba correctamente.
       acontinucacion dejo capturas del problema de compilacion en mi maquina virtual y las capturas de la ejecucion en la otra computadora.
       
+![captura](https://user-images.githubusercontent.com/72818844/118420573-8e607300-b695-11eb-9cca-690ec270b467.png)
+![otraPC](https://user-images.githubusercontent.com/72818844/118420826-252d2f80-b696-11eb-8ebf-c8ff7752bd23.jpg)
+![otraPC2](https://user-images.githubusercontent.com/72818844/118420830-265e5c80-b696-11eb-92f6-b3d1ceecd352.jpg)
+![otraPC3](https://user-images.githubusercontent.com/72818844/118420831-26f6f300-b696-11eb-8099-df6b27a6d6d7.jpg)
+

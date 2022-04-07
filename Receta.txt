@@ -1,1 +1,8 @@
-gsgsgsfgsg
+cortar|ajo|perejil
+mezclar|ajo|perejil|huevo|carne
+salar|mezcla
+empanar|mezcla|sal
+cocinar|mezcla
+hornear|pan
+cortarLTCP|lechuga|tomate|cebolla|pepino
+GANADOR

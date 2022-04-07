@@ -1,4 +1,22 @@
-fgsgsgsg
+#include <stdio.h>      // libreria estandar
+#include <stdlib.h>     // para usar exit y funciones de la libreria standard
+#include <string.h>
+#include <pthread.h>    // para usar threads
+#include <semaphore.h>  // para usar semaforos
+#include <unistd.h>
+
+
+#define LIMITE 50
+//declaro semaforos tipos mutex
+pthread_mutex_t salarMutex;
+pthread_mutex_t sartenMutex;
+pthread_mutex_t cocinarMutex;
+pthread_mutex_t hornearMutex;
+pthread_mutex_t ganadorMutex;
+//void prueba(char cadena[]);
+//void leerArchivo();
+
+FILE *ak;
 int flanco=0;
 int Equipo=0;
 

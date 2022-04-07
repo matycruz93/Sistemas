@@ -1,5 +1,5 @@
-# SOR-Semáforos-1S-2021
-Trabajo Práctico Semáforos primer semestre año 2021
+# SOR-Semáforos-1S-2022
+Trabajo Práctico Semáforos primer semestre año 2022
 
 INFORME :
 
@@ -13,12 +13,12 @@ Problemas:*Dificultades a la hora de crear hilos y utilizarlos
 Soluciones: * videos proporcionados por los docentes de la materia y busqueda en internet sobre las dificultades planteadas anteriormente.
 
 
-Nota :Tuve problemas en mi maquina virtual para poder ejecutar el programa y al no encontrar solucion decidi probar el archivo en otra terminal de otra computadora
+Nota :Tuve problemas en mi maquina virtual para poder ejecutar el programa y al no encontrar solucion decidi probar el archivo en la terminal suministrada por la materia
       para determinar si el archivo funcionaba correctamente.
-      acontinucacion dejo capturas del problema de compilacion en mi maquina virtual y las capturas de la ejecucion en la otra computadora.
+      acontinucacion dejo capturas del problema de compilacion en mi maquina virtual y las capturas de la ejecucion en la terminal suministrada por la materia .
       
-![captura](https://user-images.githubusercontent.com/72818844/118420573-8e607300-b695-11eb-9cca-690ec270b467.png)
-![otraPC](https://user-images.githubusercontent.com/72818844/118420826-252d2f80-b696-11eb-8ebf-c8ff7752bd23.jpg)
-![otraPC2](https://user-images.githubusercontent.com/72818844/118420830-265e5c80-b696-11eb-92f6-b3d1ceecd352.jpg)
-![otraPC3](https://user-images.githubusercontent.com/72818844/118420831-26f6f300-b696-11eb-8099-df6b27a6d6d7.jpg)
 
+![captura](https://user-images.githubusercontent.com/72818844/162112842-965e4cda-cea7-4f29-93d8-137cec6cd5cc.png)
+![captura terminal 1](https://user-images.githubusercontent.com/72818844/162112888-0fa677fc-1c45-491f-82b5-7e6cbea74745.jpg)
+![captura terminal 2](https://user-images.githubusercontent.com/72818844/162112893-2f4d5d34-4649-4563-bb43-84dfdfa846e4.jpg)
+![captura terminal 3](https://user-images.githubusercontent.com/72818844/162112901-0b6f08c1-cdb1-40b6-b92e-482ee8efa77f.jpg)

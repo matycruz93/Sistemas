@@ -1,22 +1,4 @@
-#include <stdio.h>      // libreria estandar
-#include <stdlib.h>     // para usar exit y funciones de la libreria standard
-#include <string.h>
-#include <pthread.h>    // para usar threads
-#include <semaphore.h>  // para usar semaforos
-#include <unistd.h>
-
-
-#define LIMITE 50
-//declaro semaforos tipos mutex
-pthread_mutex_t salarMutex;
-pthread_mutex_t sartenMutex;
-pthread_mutex_t cocinarMutex;
-pthread_mutex_t hornearMutex;
-pthread_mutex_t ganadorMutex;
-//void prueba(char cadena[]);
-//void leerArchivo();
-
-FILE *ak;
+fgsgsgsg
 int flanco=0;
 int Equipo=0;
 
@@ -90,7 +72,7 @@ void* cortar(void *data) {
 	imprimirAccion(mydata,accion);
 	//uso sleep para simular que que pasa tiempo
 	usleep( 1000000 );
-	//doy la señal a la siguiente accion (cortar me habilita mezclar)
+	//doy la seÃ±al a la siguiente accion (cortar me habilita mezclar)
     sem_post(&mydata->semaforos_param.sem_mezclar);
 	
     pthread_exit(NULL);
@@ -327,7 +309,7 @@ fclose(fp);
 		//}
 	//}
 //}
-	//seteo las acciones y los ingredientes (Faltan acciones e ingredientes) ¿Se ve hardcodeado no? ¿Les parece bien?
+	//seteo las acciones y los ingredientes (Faltan acciones e ingredientes) Â¿Se ve hardcodeado no? Â¿Les parece bien?
  //    	strcpy(pthread_data->pasos_param[0].accion, "cortar");
 //	strcpy(pthread_data->pasos_param[0].ingredientes[0], "ajo");
   //      strcpy(pthread_data->pasos_param[0].ingredientes[1], "perejil");
